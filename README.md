@@ -1,1 +1,1 @@
-> tutorial from the head first book
+> tutorials from the head first book
