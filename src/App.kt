@@ -1,3 +1,3 @@
 fun main() {
-    println("Pow!")
+    println("Pow! Pow!")
 }
