@@ -1,6 +1,6 @@
 fun main() {
-    println("Pow! Pow!")
-    var x=630
+    println("hello!")
+    var x=63
     var y : Long = x.toLong()
     print(y)
 }
